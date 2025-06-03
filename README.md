@@ -1,1 +1,1 @@
-# agoritimo
+# algoritimo
